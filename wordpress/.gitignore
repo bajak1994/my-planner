@@ -2,7 +2,8 @@
 /wp-*.php
 /wp-content/index.php
 /wp-content/languages/
-/wp-content/plugins/
+/wp-content/plugins/*
+!/wp-content/plugins/my-planner/
 /wp-content/themes/index.php
 /wp-content/uploads/wp-migrate-db/index.php
 /license.txt
